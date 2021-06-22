@@ -16,4 +16,4 @@ To run locally, the user should fork this repo and set up a database called "bud
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Demo Video:
-https://drive.google.com/file/d/15iOWawUJvTJP62ux0r1U_fp8XD9VSKu5/view?usp=sharing
+https://drive.google.com/file/d/1cPeS1KJ3Y42SfQgJDOpxxGPXoorhoFNR/view?usp=sharing
